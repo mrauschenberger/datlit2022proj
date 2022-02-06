@@ -1,1 +1,1 @@
-# datlit2022proj
+# Project for Data Literacy (2022)
